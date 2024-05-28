@@ -1,51 +1,21 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Domine o Futuro: Desbloqueando o Poder da IA para Criadores de Conteúdo"
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este artigo busca explorar a forma com qual criadores de conteúdo da Web podem utilizar a IA no seu cotidiano.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+IA Generativa Chat GPT para a criação do conteúdo textual e roteirização.
+IA Generativa Designer do Bing para criação do complemento visual.
+Microsoft Word para a formatação.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Utilizei o Chat GPT, inicialmente buscando que ele me sugira tópicos sobre um possível conteúdo para um blog fictício relacionado á IA. 
+A partir dos temas sugeridos, comecei a gerar roteiros e guiei a IA para que ela moldasse o conteúdo utilizando o tom de palavras e temas que eu queria ver no artigo.
+Após montar o texto, utilizei do Designer para gerar imagens condizentes com o tópico para ilustrar o conteúdo.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O conteúdo gerado possui temas relevantes e foi comunicado de forma simples e direta, podendo facilmente ser adicionado em algum blog.
+[Link do artigo](https://drive.google.com/file/d/1UY8s9PNyOCJJyY28lXQH1ZCHfHOz-rBZ/view?usp=sharing)
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+Criando este artigo foi possível sentir a facilidade e praticidade que a IA trás para a criação de conteúdo, podendo auxiliar na criação de postagens e na busca por ideias.
